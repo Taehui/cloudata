@@ -27,7 +27,7 @@
 
   <property>
     <name>commitlog.num.replicas</name>
-    <value>2/value>
+    <value>2</value>
     <description>commitlog.num.replicas</description>
   </property>
  
